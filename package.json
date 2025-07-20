@@ -1,0 +1,8 @@
+{
+  "name": "platform-services",
+  "private": true,
+  "workspaces": [
+    "services/*",
+    "libs/*"
+  ]
+}
